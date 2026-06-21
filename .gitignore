@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials/
+secrets/
+tokens/
+*.token
+*.secret
+
+# Temporary files
+.tmp/
+*.tmp
+*.log
+logs/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies/build outputs
+node_modules/
+venv/
+.venv/
+__pycache__/
+dist/
+build/
+.cache/
+
+# Large/generated media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.zip
+*.rar
+*.7z
+
+# Claude/Hermes local runtime/cache files
+.claude/
+.hermes/
