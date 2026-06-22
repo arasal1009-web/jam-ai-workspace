@@ -28,7 +28,7 @@ For now, we are setting up **instructions and registries** only. Running contain
 | Atlas Capture | `/home/hermes/projects/atlas-capture` | `/home/hermes/projects/atlas-capture/agents/README.md` | Ops/documentation agents planned |
 | AI Agency / Job Market Digital | `/home/hermes/projects/ai-agency` | `/home/hermes/projects/ai-agency/agents/README.md` | Website-building business agents planned |
 | Story Writing | `/home/hermes/projects/story-writing` | `/home/hermes/projects/story-writing/agents/README.md` | Book 1 creative/revision agents planned |
-| Hive | `/home/hermes/projects/hive` | `/home/hermes/projects/hive/agents/README.md` | Content/affiliate agents planned |
+| Hive | `/home/hermes/projects/hive` | `/home/hermes/projects/hive/agents/README.md` | **Role-agent specs created**; manual content strategist dry-run is next |
 | Scheduled routines | `/home/hermes/projects/jam-ai-workspace/Scheduled` | `/home/hermes/projects/jam-ai-workspace/Scheduled/morning-briefing/SKILL.md` | Morning briefing cron exists |
 
 ## Shared rules for all role agents and sub-agents
@@ -71,11 +71,11 @@ Minimum fields:
 
 ## Recommended next implementation sequence
 
-1. **BBX first** — individual `AGENT.md` specs are now created; next step is a manual Account Manager Lead dry-run before any containerization.
-2. **Story Writing second** — create Book 1-focused agents for canon, continuity, character, and visual prompts.
-3. **Atlas third** — create agents around dispute process, documentation mirrors, and meeting-to-actions.
-4. **AI Agency / Job Market Digital fourth** — create website/funnel/content agents after first website scope is chosen.
-5. **Hive fifth** — wait for Jude's naming/split decision before locking container-level roles.
+1. **BBX first** — role-agent specs and manual dry-runs completed; real calls/CRM depend on market windows and PC-local workflows.
+2. **Hive next** — role-agent specs are now created; dry-run low-attention content/affiliate workflows while Jude is between higher-focus work.
+3. **Story Writing next after Hive** — create or refine Book 1-focused agents for canon, continuity, character, proofing, and visual prompts.
+4. **Atlas Capture later** — create agents around dispute process, documentation mirrors, and meeting-to-actions.
+5. **AI Agency / Job Market Digital later** — create website/funnel/content agents after first website scope is chosen.
 
 ## Docker/container note
 

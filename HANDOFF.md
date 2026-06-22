@@ -59,3 +59,19 @@ No Docker containers, role-agent processes, cron jobs, CRM updates, or messages 
 
 Manual dry-run of `/home/hermes/projects/bbx/agents/account-manager-lead/AGENT.md` to produce a sample BBX daily action plan from read-only approved inputs.
 
+## 2026-06-22 — Hermes — BBX windows recorded and Hive setup started
+
+### What changed
+
+- BBX calling windows recorded in the BBX repo: NZ until 1:00 PM PHT, AU until 3:00 PM PHT. After those windows, agents should prepare queues/drafts/research for the next day rather than suggesting immediate calls.
+- Hive role-agent setup created in `/home/hermes/projects/hive` for low-attention content/affiliate work.
+- Central agent registry updated to make Hive the next setup focus, then Story Writing.
+
+### Boundary
+
+No automations, containers, publishing, CRM updates, or external messages were created/sent.
+
+### Suggested next action
+
+Dry-run Hive Content Strategist, then Affiliate Video Producer. After Hive is validated, continue to Story Writing setup.
+
