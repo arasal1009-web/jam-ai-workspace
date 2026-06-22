@@ -24,7 +24,7 @@ For now, we are setting up **instructions and registries** only. Running contain
 
 | Project | Project repo/path | Existing sub-agent plan | Immediate setup status |
 |---|---|---|---|
-| BBX | `/home/hermes/projects/bbx` | `/home/hermes/projects/bbx/agents/README.md` | Most developed; has workflows and `tools/sync_unified_members.py` |
+| BBX | `/home/hermes/projects/bbx` | `/home/hermes/projects/bbx/agents/README.md` | **Role-agent specs created**; manual Account Manager Lead dry-run is next |
 | Atlas Capture | `/home/hermes/projects/atlas-capture` | `/home/hermes/projects/atlas-capture/agents/README.md` | Ops/documentation agents planned |
 | AI Agency / Job Market Digital | `/home/hermes/projects/ai-agency` | `/home/hermes/projects/ai-agency/agents/README.md` | Website-building business agents planned |
 | Story Writing | `/home/hermes/projects/story-writing` | `/home/hermes/projects/story-writing/agents/README.md` | Book 1 creative/revision agents planned |
@@ -71,7 +71,7 @@ Minimum fields:
 
 ## Recommended next implementation sequence
 
-1. **BBX first** — convert the BBX agent list into individual `AGENT.md` files because BBX has the clearest operational workflows and tool needs.
+1. **BBX first** — individual `AGENT.md` specs are now created; next step is a manual Account Manager Lead dry-run before any containerization.
 2. **Story Writing second** — create Book 1-focused agents for canon, continuity, character, and visual prompts.
 3. **Atlas third** — create agents around dispute process, documentation mirrors, and meeting-to-actions.
 4. **AI Agency / Job Market Digital fourth** — create website/funnel/content agents after first website scope is chosen.
