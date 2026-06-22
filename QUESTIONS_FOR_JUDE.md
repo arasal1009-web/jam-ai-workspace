@@ -27,3 +27,36 @@
 1. What is Hive's main focus?
 2. Which platforms matter first?
 3. Should CapCut/Seedance workflows be used for Hive, AI Business, or both?
+
+## Answers received 2026-06-22
+
+### BBX
+- `Unified Members` should be canonical.
+- AU/NZ matching can be cross-market for online-deliverable services or shippable products when both parties agree with postage fees.
+- Member Intelligence stays in Google Sheets for now; can move to Notion later.
+- CRM safe-update fields are TBD.
+
+### Atlas Capture
+- Highest workflow after dispute process: still open.
+- Finance/dispute process approval: **Country Lead — Rosa**.
+- Action items: **both Notion and repo Markdown**.
+
+### AI Business
+- Domain: `jobmarketdigital.com`
+- Business: **Job Market Digital**
+- First offer: **Website Building**
+- Google Workspace/domain: `jobmarketdigital.com`
+- Gemini: open to suggestions.
+
+### Story Writing
+- Priority: finish Book 1.
+- Review needs: continuity, inconsistencies, incomplete character building.
+- Visual prompts: create animation and realistic versions.
+- Canon: `revisions` chapters are canonical; if only one version exists, it is canonical.
+- Genre/culture: BL, Fantasy, Isekai, Philippine Lores; Maranao culture; Zamboangueño/Chavacano main character.
+
+### Hive
+- Mixed social/content project: Ecency, Actifit, Shopee, TikTok, YouTube.
+- Priority: Shopee/TikTok first, then Ecency/Actifit, YouTube after Book 1.
+- CapCut/Seedance should support Hive and AI Business.
+- Need to decide whether to rename Hive or split non-Hive platforms into a separate project.

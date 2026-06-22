@@ -26,3 +26,13 @@ Prepared while Jude was sleeping. No recurring automation was enabled.
 3. Decide whether BBX intelligence lives in Google Sheets first or Notion.
 4. Approve or revise the morning briefing cron proposal separately.
 5. Answer project-specific questions in each `QUESTIONS_FOR_JUDE.md` / README section.
+
+## Jude answers incorporated 2026-06-22
+
+The project-specific repositories now include Jude's answers from the Google Sheet:
+
+- BBX: `Unified Members` canonical, cross-market rule, Google Sheets-first intelligence.
+- Atlas Capture: Rosa approval gate and Notion + Markdown action tracking.
+- AI Business: Job Market Digital, `jobmarketdigital.com`, website-building first offer.
+- Story Writing: Book 1 completion priority, canon rule, visual prompt requirement, genre/culture shelf.
+- Hive: platform map, priorities, CapCut/Seedance usage, naming/splitting question.
