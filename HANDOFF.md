@@ -115,3 +115,24 @@ No content was published, no posts were scheduled, no affiliate dashboard/accoun
 
 Dry-run `Hive Affiliate Market Lead` using one product/link, likely the PetMarra cat food link already in Hive files unless Jude provides another product.
 
+## 2026-06-22 — Hermes — Cross-project Tool Scout agent added
+
+### What changed
+
+Added a cross-project agent to recommend helpful tools/apps/AI services for Jude's projects:
+
+```text
+agents/tool-scout/AGENT.md
+workflows/tool-scout-recommendations.md
+```
+
+Purpose: suggest useful tools, with free/open-source/freemium options preferred, for BBX, Hive affiliate marketing, Story Writing, Job Market Digital, Atlas Capture, and JAM AI Workspace operations.
+
+### Boundary
+
+Manual-dry-run-ready only. No apps/extensions/packages were installed, no accounts created, no paid trials/subscriptions started, no external services connected, and no cron was enabled.
+
+### Suggested next action
+
+Run a manual Tool Scout dry-run for one focus area, e.g. `Story Writing visual/comic tools` or `Hive affiliate video tools`. If useful, ask Jude to approve a weekly read-only recommendation cron.
+

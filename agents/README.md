@@ -30,6 +30,7 @@ For now, we are setting up **instructions and registries** only. Running contain
 | Story Writing | `/home/hermes/projects/story-writing` | `/home/hermes/projects/story-writing/agents/README.md` | **Role-agent specs created**; manual Story Director dry-run is next |
 | Hive | `/home/hermes/projects/hive` | `/home/hermes/projects/hive/agents/README.md` | **Affiliate-first sub-agent specs created**; manual Affiliate Market Lead dry-run is next |
 | Scheduled routines | `/home/hermes/projects/jam-ai-workspace/Scheduled` | `/home/hermes/projects/jam-ai-workspace/Scheduled/morning-briefing/SKILL.md` | Morning briefing cron exists |
+| Cross-project Tool Scout | `/home/hermes/projects/jam-ai-workspace/agents/tool-scout/AGENT.md` | `/home/hermes/projects/jam-ai-workspace/workflows/tool-scout-recommendations.md` | **Manual-dry-run-ready**; weekly cron can be enabled after Jude approves exact schedule |
 
 ## Shared rules for all role agents and sub-agents
 
