@@ -28,7 +28,7 @@ For now, we are setting up **instructions and registries** only. Running contain
 | Atlas Capture | `/home/hermes/projects/atlas-capture` | `/home/hermes/projects/atlas-capture/agents/README.md` | Ops/documentation agents planned |
 | AI Agency / Job Market Digital | `/home/hermes/projects/ai-agency` | `/home/hermes/projects/ai-agency/agents/README.md` | Website-building business agents planned |
 | Story Writing | `/home/hermes/projects/story-writing` | `/home/hermes/projects/story-writing/agents/README.md` | **Role-agent specs created**; manual Story Director dry-run is next |
-| Hive | `/home/hermes/projects/hive` | `/home/hermes/projects/hive/agents/README.md` | **Role-agent specs created**; manual content strategist dry-run is next |
+| Hive | `/home/hermes/projects/hive` | `/home/hermes/projects/hive/agents/README.md` | **Affiliate-first sub-agent specs created**; manual Affiliate Market Lead dry-run is next |
 | Scheduled routines | `/home/hermes/projects/jam-ai-workspace/Scheduled` | `/home/hermes/projects/jam-ai-workspace/Scheduled/morning-briefing/SKILL.md` | Morning briefing cron exists |
 
 ## Shared rules for all role agents and sub-agents
@@ -72,7 +72,7 @@ Minimum fields:
 ## Recommended next implementation sequence
 
 1. **BBX first** — role-agent specs and manual dry-runs completed; real calls/CRM depend on market windows and PC-local workflows.
-2. **Hive next** — role-agent specs are now created; dry-run low-attention content/affiliate workflows while Jude is between higher-focus work.
+2. **Hive next** — affiliate-first sub-agent specs are now created; dry-run Affiliate Market Lead, Product & Offer Researcher, then Affiliate Angle & Scriptwriter on one product/link.
 3. **Story Writing after Hive** — role-agent specs are now created; dry-run Story Director, then Continuity & Canon Keeper on one Book 1 chapter/arc.
 4. **Atlas Capture later** — create agents around dispute process, documentation mirrors, and meeting-to-actions.
 5. **AI Agency / Job Market Digital later** — create website/funnel/content agents after first website scope is chosen.

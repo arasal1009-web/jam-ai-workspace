@@ -99,3 +99,19 @@ No chapter files were rewritten and no publishing/automation/container action wa
 
 Dry-run Hive Content Strategist first if continuing Hive, or Story Director / Bookrunner if switching to Story Writing.
 
+## 2026-06-22 — Hermes — Hive affiliate-first focus recorded
+
+### What changed
+
+Hive sub-agent setup was refined to focus on affiliate marketing first, especially Shopee/TikTok AI short-form product videos.
+
+The Hive repo now has affiliate-first sub-agent specs for product research, hook/script writing, AI video prompts, compliance review, queue management, and performance review.
+
+### Boundary
+
+No content was published, no posts were scheduled, no affiliate dashboard/account was accessed, no paid action was taken, and no automation or containers were created.
+
+### Suggested next action
+
+Dry-run `Hive Affiliate Market Lead` using one product/link, likely the PetMarra cat food link already in Hive files unless Jude provides another product.
+
