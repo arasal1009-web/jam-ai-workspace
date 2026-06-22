@@ -75,3 +75,27 @@ No automations, containers, publishing, CRM updates, or external messages were c
 
 Dry-run Hive Content Strategist, then Affiliate Video Producer. After Hive is validated, continue to Story Writing setup.
 
+## 2026-06-22 — Hermes — Story Writing setup added after Hive
+
+### What changed
+
+Story Writing role-agent specs were created in `/home/hermes/projects/story-writing` after Hive setup, focused on part-time Book 1 progress:
+
+- Story Director / Bookrunner
+- Continuity & Canon Keeper
+- Plot Architect
+- Character Psychologist
+- Worldbuilding & Cultural Researcher
+- Prose Stylist / Line Editor
+- Visual Prompt Designer
+
+Central registry updated to mark Story Writing specs ready.
+
+### Boundary
+
+No chapter files were rewritten and no publishing/automation/container action was taken.
+
+### Suggested next action
+
+Dry-run Hive Content Strategist first if continuing Hive, or Story Director / Bookrunner if switching to Story Writing.
+
