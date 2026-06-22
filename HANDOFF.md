@@ -136,3 +136,29 @@ Manual-dry-run-ready only. No apps/extensions/packages were installed, no accoun
 
 Run a manual Tool Scout dry-run for one focus area, e.g. `Story Writing visual/comic tools` or `Hive affiliate video tools`. If useful, ask Jude to approve a weekly read-only recommendation cron.
 
+## 2026-06-22 — Hermes — Tool Scout weekly cron enabled
+
+### What changed
+
+Jude clarified that tool recommendations should prioritize tools that can be connected with AI or operated by AI because he does not have time for manual edits.
+
+Updated Tool Scout docs to rank tools by AI-operability: API, CLI, browser automation, batch import/export, templates, plugin systems, local scripts, or workflow integrations.
+
+Created weekly cron:
+
+```text
+Job: Tool Scout — Weekly Recommendations
+Job ID: 085e71fe7dd3
+Schedule: 30 0 * * 6 UTC = Saturday 8:30 AM PHT
+Delivery: origin Telegram chat
+Workdir: /home/hermes/projects/jam-ai-workspace
+```
+
+### Boundary
+
+Cron is research/report only. It must not install apps, sign up for accounts, connect services, use paid credits, publish/schedule content, upload private files, or create further automations/containers.
+
+### Suggested next action
+
+Review the first Saturday report and decide whether its focus rotation and AI-operability scoring are useful.
+

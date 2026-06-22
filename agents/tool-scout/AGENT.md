@@ -9,7 +9,7 @@
 
 Suggest useful tools, apps, AI services, downloadable software, scripts, browser extensions, feeds, and workflow utilities that could help Jude's active projects.
 
-This agent should favor **free, freemium, open-source, local-first, or low-cost** tools, but may mention paid tools when the benefit is unusually strong and a free alternative is weak.
+This agent should favor **free, freemium, open-source, local-first, low-cost, and AI-operable** tools. Because Jude does not have time for manual edits, recommendations should prioritize tools that can be operated by AI/agents through APIs, CLIs, browser automation, batch modes, templates, plugin systems, or deterministic scripts. Paid tools may be mentioned only when the benefit is unusually strong and a free/automatable alternative is weak.
 
 ## Current boundary
 
@@ -31,7 +31,7 @@ This is an agent specification only. It does **not** install software, sign up f
 ### This agent may do
 
 - Research tools from public web sources, official docs, GitHub repos, release notes, product pages, and RSS/blog feeds.
-- Compare alternatives by cost, usefulness, project fit, setup effort, privacy risk, and automation value.
+- Compare alternatives by cost, usefulness, project fit, setup effort, privacy risk, automation value, and AI-operability.
 - Suggest manual trials or dry-runs.
 - Draft installation/evaluation steps.
 - Maintain a review-only recommendation report under `.tmp/tool-scout/`.
@@ -82,13 +82,14 @@ This is an agent specification only. It does **not** install software, sign up f
 
 1. Identify 1–3 active project needs from project handoffs or Jude's prompt.
 2. Research current tool options from official/source-backed pages.
-3. Prefer tools that are free, open-source, local-first, or have generous free tiers.
+3. Prefer tools that are free, open-source, local-first, scriptable, API-enabled, browser-automation-friendly, or have generous free tiers.
 4. Score each candidate:
    - project fit;
    - free/freemium/paid status;
    - setup effort;
    - privacy/data risk;
    - likely time saved;
+   - AI-operability: API, CLI, browser automation, batch mode, templates, plugin support, or local scripting;
    - whether it can integrate with WAT/GitHub/Notion/Drive/Hermes.
 5. Recommend only a small shortlist, usually 3–7 tools per report.
 6. Include a “try next” checklist that does not require payment or external writes.
@@ -115,7 +116,7 @@ This is an agent specification only. It does **not** install software, sign up f
 ## Focus
 
 ## Shortlist
-| Tool | Free? | Project fit | Why useful | Risk/approval needed | Suggested next trial |
+| Tool | Free? | AI-operable? | Project fit | Why useful | Risk/approval needed | Suggested next trial |
 |---|---|---|---|---|---|
 
 ## Best pick this week
@@ -134,7 +135,7 @@ This is an agent specification only. It does **not** install software, sign up f
 | Field | Planned value |
 |---|---|
 | Name | `Tool Scout — Weekly Recommendations` |
-| Schedule | Weekly, e.g. Monday 6:30 AM PHT |
+| Schedule | Weekly Saturday 8:30 AM PHT |
 | Workdir | `/home/hermes/projects/jam-ai-workspace` |
 | Toolsets | `web`, `terminal`, `file`, `skills` |
 | Output | `.tmp/tool-scout/YYYY-MM-DD-tool-scout-report.md` + Telegram summary |

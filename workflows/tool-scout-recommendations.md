@@ -16,6 +16,21 @@ Prefer tools that are:
 4. freemium with a genuinely useful free tier;
 5. cheap only if the free alternatives are weak and the time savings are high.
 
+## AI-operable rule
+
+Because Jude does not have time for manual edits, prioritize tools that can be operated by AI/agents or integrated into WAT workflows. Look for:
+
+- public API or documented automation API;
+- CLI or scriptable local workflow;
+- browser-automation-friendly web interface;
+- batch import/export;
+- templates that agents can populate;
+- plugin/extension system;
+- local file-based workflows;
+- GitHub/Notion/Google Drive/Zapier/Make/n8n-style integrations.
+
+Manual-only timeline editors, manual-only design apps, and closed tools with no export/automation path should be ranked lower even if they are popular.
+
 ## Research rules
 
 - Use current official pages, docs, GitHub repos, release notes, and reputable summaries.
@@ -41,6 +56,7 @@ Use a 1–5 score for:
 
 - project fit;
 - cost/value;
+- AI-operability;
 - ease of setup;
 - privacy/safety;
 - immediate usefulness.
@@ -63,6 +79,6 @@ When asked to dry-run Tool Scout:
 
 1. Pick one focus area, e.g. `Story Writing visual/comic tools` or `Hive affiliate video tools`.
 2. Research 5–10 candidates.
-3. Return the top 3–5 only.
+3. Return the top 3–7 only, ranked higher when AI/agent operation is realistic.
 4. Save report under `.tmp/tool-scout/`.
 5. Recommend one zero-cost trial action.
