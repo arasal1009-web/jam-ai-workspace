@@ -46,3 +46,10 @@ build/
 # Claude/Hermes local runtime/cache files
 .claude/
 .hermes/
+
+# Nested project repos managed separately
+AI Agency/
+Atlas Capture/
+BBX/
+Hive/
+Story Writing/
