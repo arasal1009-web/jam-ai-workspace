@@ -17,6 +17,8 @@ Jude chose the combined sync model:
 1. **Option A — GitHub shared source of truth:** Claude, Codex, Hermes, and other assistants should read the same Markdown files before working.
 2. **Option B — Hermes as coordinator:** Hermes keeps persistent user/project context and updates shared repo files when Jude approves durable changes.
 
+Scheduled crons/routines should stay in Hermes. The repo may store supporting scripts, prompts, workflows, and documentation mirrors, but Hermes cron remains the canonical place for live schedules/jobs.
+
 Do not assume another assistant has access to Hermes chat memory. If context should persist across assistants, write it into the correct repo file and commit/push when appropriate.
 
 ## Required reading order

@@ -17,6 +17,7 @@ This file defines where information should live.
 | Project registry | PROJECTS.md |
 | Human dashboard/task tracking | Notion Command Center |
 | Project source of truth / knowledge | Notion JAM AI Source of Truth |
+| Scheduled crons/routines | Hermes cron is canonical for schedules and live jobs; repo stores only supporting scripts, prompts, workflows, and documentation mirrors |
 | Cloud documents/deliverables | Google Drive / Docs / Sheets; Markdown equivalent must exist in GitHub when agents need to work from it |
 | VPS copy | /home/hermes/projects/jam-ai-workspace after GitHub clone |
 

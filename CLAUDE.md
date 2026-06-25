@@ -46,6 +46,7 @@ On Jude's PC, use the equivalent path under `D:\JAM AI Workspace\BBX`.
 ## Coordination with Hermes and Codex
 
 - Hermes is Jude's coordinator and has persistent context, but Claude does not automatically share that memory.
+- Scheduled crons/routines should stay in Hermes. Claude/Codex may draft supporting scripts, prompts, or workflow docs, but should not become the canonical scheduler.
 - Durable context must be read from and written to the shared repo files.
 - If Hermes gives a task handoff, preserve its boundaries and source-of-truth references.
 - If you produce a durable decision, workflow change, or handoff, update the appropriate Markdown file if Jude approved the change.

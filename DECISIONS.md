@@ -28,3 +28,18 @@ Use this file for durable decisions.
 - `/home/hermes/projects/jam-ai-workspace/CLAUDE.md`
 - `/home/hermes/projects/bbx/workflows/speedbiz-member-fit-check.md`
 - `/home/hermes/projects/bbx/agents/speedbiz-fit-checker/AGENT.md`
+
+### 2026-06-25 — Scheduled crons stay in Hermes
+
+**Decision:** Scheduled crons/routines should stay in Hermes. The JAM AI Workspace repo can store supporting scripts, prompts, workflow docs, and mirrors, but Hermes cron is the canonical place for live schedules/jobs.
+
+**Reason:** Hermes is the coordinator and is designed to run durable routines, deliver scheduled outputs, and manage cron job state. Claude/Codex should share instructions through GitHub but should not become the scheduler.
+
+**Applies to:** Scheduled routines, daily briefings, BBX lead-agent cron/pilot runs, Tool Scout recommendations, future recurring assistant work.
+
+**Links / paths:**
+
+- Hermes cron via `hermes cron` / cronjob tool
+- `/home/hermes/projects/jam-ai-workspace/SOURCE_OF_TRUTH.md`
+- `/home/hermes/projects/jam-ai-workspace/AGENTS.md`
+- `/home/hermes/projects/jam-ai-workspace/CLAUDE.md`

@@ -169,6 +169,27 @@ No automation, cron, containers, CRM updates, Notion updates, or external messag
 
 Commit and push both repos, then tell Claude/Codex to read the root `AGENTS.md` plus the BBX SpeedBiz workflow before member-fit checks.
 
+## 2026-06-25 — Hermes — Scheduled crons stay in Hermes
+
+### What changed
+
+Jude clarified that scheduled crons/routines should stay in Hermes. The JAM AI Workspace repo can document schedules and store supporting scripts/prompts/workflows, but Hermes cron remains the canonical place for live scheduled jobs.
+
+Updated files:
+
+- `SOURCE_OF_TRUTH.md`
+- `AGENTS.md`
+- `CLAUDE.md`
+- `DECISIONS.md`
+
+### Boundary
+
+No cron jobs were created, moved, paused, or changed. This was a documentation/source-of-truth update only.
+
+### Suggested next action
+
+When Claude/Codex helps with scheduled work, have them draft scripts/prompts/docs only, then hand off to Hermes to create or manage the actual cron after Jude approves.
+
 ## 2026-06-22 — Hermes — Tool Scout weekly cron enabled
 
 ### What changed
