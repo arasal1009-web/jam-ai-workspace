@@ -136,6 +136,39 @@ Manual-dry-run-ready only. No apps/extensions/packages were installed, no accoun
 
 Run a manual Tool Scout dry-run for one focus area, e.g. `Story Writing visual/comic tools` or `Hive affiliate video tools`. If useful, ask Jude to approve a weekly read-only recommendation cron.
 
+## 2026-06-25 — Hermes — Claude/Codex/Hermes sync setup started
+
+### What changed
+
+Jude approved the combined Option A + B sync model:
+
+- Option A: shared GitHub/Markdown files as the assistant source of truth.
+- Option B: Hermes remains coordinator because it has Jude's persistent context.
+
+Updated central JAM files:
+
+- `README.md`
+- `AGENTS.md`
+- `CLAUDE.md`
+- `DECISIONS.md`
+
+Created/updated BBX SpeedBiz shared-agent files in `/home/hermes/projects/bbx`:
+
+- `workflows/speedbiz-member-fit-check.md`
+- `templates/speedbiz-outreach.md`
+- `agents/speedbiz-fit-checker/AGENT.md`
+- `agents/README.md`
+- `AGENTS.md`
+- `CLAUDE.md`
+
+### Boundary
+
+No automation, cron, containers, CRM updates, Notion updates, or external messages were created/sent. This was repo documentation/source-of-truth setup only.
+
+### Suggested next action
+
+Commit and push both repos, then tell Claude/Codex to read the root `AGENTS.md` plus the BBX SpeedBiz workflow before member-fit checks.
+
 ## 2026-06-22 — Hermes — Tool Scout weekly cron enabled
 
 ### What changed
