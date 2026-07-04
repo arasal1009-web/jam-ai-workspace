@@ -216,3 +216,43 @@ Cron is research/report only. It must not install apps, sign up for accounts, co
 
 Review the first Saturday report and decide whether its focus rotation and AI-operability scoring are useful.
 
+## 2026-07-05 — Hermes — Music Production project setup
+
+### What changed
+
+Created the `Music Production` project under the JAM AI Workspace for Jude's Suno AI music production system.
+
+Added manual-first files for:
+
+- YouTube low-competition music niche research;
+- Suno prompt production;
+- monthly credit usage planning;
+- YouTube playlist package drafting.
+
+### Files touched
+
+- `Music Production/README.md`
+- `Music Production/AGENTS.md`
+- `Music Production/CLAUDE.md`
+- `Music Production/PROJECT_BRIEF.md`
+- `Music Production/agents/README.md`
+- `Music Production/agents/youtube-niche-researcher/AGENT.md`
+- `Music Production/agents/suno-prompt-producer/AGENT.md`
+- `Music Production/workflows/youtube-music-niche-research.md`
+- `Music Production/workflows/suno-monthly-credit-production.md`
+- `Music Production/templates/suno-prompt-template.md`
+- `Music Production/templates/youtube-playlist-package-template.md`
+- `Music Production/prompts/suno-focus-music-prompt-bank.md`
+- `Music Production/research/README.md`
+- `PROJECTS.md`
+- `agents/README.md`
+- `DECISIONS.md`
+
+### Boundary
+
+No Suno credits were used, no YouTube/Suno accounts were accessed, no playlist was published, and no cron/automation/container was created.
+
+### Suggested next action
+
+Run a manual YouTube Music Niche Researcher dry-run for 10–20 candidate focus/study/work music niches, then choose the top 3 lanes for Suno prompt packs.
+

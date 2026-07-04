@@ -8,6 +8,7 @@
 | Atlas Capture | `D:\JAM AI Workspace\Atlas Capture` | `/home/hermes/projects/atlas-capture` | https://github.com/arasal1009-web/atlas-capture.git | QA/support operations and dispute process docs |
 | BBX | `D:\JAM AI Workspace\BBX` | `/home/hermes/projects/bbx` | https://github.com/arasal1009-web/bbx.git | Member intelligence, trade matching, account-management workflows |
 | Hive | `D:\JAM AI Workspace\Hive` | `/home/hermes/projects/hive` | https://github.com/arasal1009-web/hive.git | Mixed content/affiliate project; naming/split decision still open |
+| Music Production | `D:\JAM AI Workspace\Music Production` | `/home/hermes/projects/jam-ai-workspace/Music Production` | https://github.com/arasal1009-web/jam-ai-workspace.git | Suno AI music production, YouTube focus/study/work playlist research and prompts |
 | Scheduled | `D:\JAM AI Workspace\Scheduled` | `/home/hermes/projects/jam-ai-workspace/Scheduled` | https://github.com/arasal1009-web/jam-ai-workspace.git | Scheduled/routine-related work such as morning briefing |
 | Story Writing | `D:\JAM AI Workspace\Story Writing` | `/home/hermes/projects/story-writing` | https://github.com/arasal1009-web/story-writing.git | Book 1, story bible, continuity, character, visual prompts |
 

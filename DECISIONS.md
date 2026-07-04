@@ -43,3 +43,17 @@ Use this file for durable decisions.
 - `/home/hermes/projects/jam-ai-workspace/SOURCE_OF_TRUTH.md`
 - `/home/hermes/projects/jam-ai-workspace/AGENTS.md`
 - `/home/hermes/projects/jam-ai-workspace/CLAUDE.md`
+
+### 2026-07-05 — Music Production project added
+
+**Decision:** Add a `Music Production` project inside the central JAM AI Workspace for Suno AI music generation, YouTube focus/study/work playlist research, and OST/cinematic prompt development.
+
+**Reason:** Jude has a Suno AI subscription with 2,500 monthly credits and wants to use those credits intentionally, especially for background music that can support students studying or people doing focused work.
+
+**Applies to:** JAM AI Workspace, Music Production, Suno prompt planning, YouTube music niche research.
+
+**Links / paths:**
+
+- `/home/hermes/projects/jam-ai-workspace/Music Production/README.md`
+- `/home/hermes/projects/jam-ai-workspace/Music Production/agents/youtube-niche-researcher/AGENT.md`
+- `/home/hermes/projects/jam-ai-workspace/Music Production/agents/suno-prompt-producer/AGENT.md`
