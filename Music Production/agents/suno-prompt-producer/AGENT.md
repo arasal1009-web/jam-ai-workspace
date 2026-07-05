@@ -43,6 +43,26 @@ Turn selected YouTube music niches and Jude's creative ideas into Suno-ready pro
 | Monthly credit plan | `research/YYYY-MM-DD-monthly-production-plan.md` | Markdown/table |
 | YouTube playlist packaging draft | `templates`/report | Markdown |
 
+## Default prompt-pack size
+
+Unless Jude asks for a different count, create **10 Suno prompts with 10 matching song titles** for each selected niche. Each prompt should include:
+
+1. song title;
+2. use case;
+3. Suno Style field;
+4. Lyrics / instrumental structure field;
+5. Exclude styles;
+6. short keep/reject notes;
+7. cover art prompt for the individual song.
+
+For cover art prompts:
+
+- Use square album/single-cover format by default: **1:1, 3000×3000-ready**.
+- Keep a consistent series identity across tracks: Calm Current JAM, calm synthwave, neon blue/violet/deep navy palette, premium ambient electronic artwork.
+- Each track cover should have one distinctive visual motif tied to the title.
+- Include a negative prompt: no people/faces/logos/copyrighted characters/readable small text/watermarks/messy composition.
+- Do not require text in the image unless Jude explicitly asks; text can be added later in Canva/video editing for cleaner platform compliance.
+
 ## Prompt rules
 
 - Prefer Custom Mode.
